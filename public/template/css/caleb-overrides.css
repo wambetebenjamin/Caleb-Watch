@@ -60,7 +60,7 @@ button:disabled { cursor: wait; opacity: .7; }
 .cw-home-feature .trend-top-cap { right: 0; bottom: 0 !important; left: 0 !important; padding: 29px 32px 30px; background: rgba(0, 0, 0, .76); }
 .cw-home-feature .trend-top-cap h2 { max-width: 630px; margin: 0 0 12px; color: #fff; font-size: clamp(27px, 3.3vw, 43px); font-weight: 800; line-height: 1.12; }
 .cw-home-feature .trend-top-cap p { max-width: 650px; margin: 0 0 18px; color: #fff; font-size: 15px; line-height: 1.6; }
-.cw-home-feature .trend-top-cap > span { margin: 0 0 13px; border-radius: 0; }
+.trending-area .trending-main .trending-top .cw-home-feature .trend-top-cap > span { margin: 0 0 13px; border-radius: 0; background: #e1fcff; color: #000; }
 .cw-hero-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 15px 24px; }
 .cw-template-button { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 13px 22px; border: 1px solid #fc3f00; border-radius: 0; background: #fc3f00; color: #fff !important; font-size: 13px; font-weight: 700; line-height: 1.35; text-align: center; transition: background .25s ease, color .25s ease, border-color .25s ease; }
 .cw-template-button:hover { border-color: #000; background: #000; color: #fff !important; }
